@@ -1,0 +1,95 @@
+{
+    "main_title": {
+        "latin": "微软雅黑",
+        "eastasia": "微软雅黑",
+        "size": 22,
+        "bold": true,
+        "color": "000000",
+        "alignment": 1,
+        "space_before": 12,
+        "space_after": 6,
+        "line_spacing": 1.5
+    },
+    "chapter_title": {
+        "latin": "黑体",
+        "eastasia": "黑体",
+        "size": 16,
+        "bold": true,
+        "color": "000000",
+        "alignment": 0,
+        "space_before": 12,
+        "space_after": 2,
+        "line_spacing": 1.5
+    },
+    "section_title": {
+        "latin": "微软雅黑",
+        "eastasia": "微软雅黑",
+        "size": 14,
+        "bold": true,
+        "color": "000000",
+        "alignment": 0,
+        "space_before": 8,
+        "space_after": 8,
+        "line_spacing": 1.0
+    },
+    "subsection_title": {
+        "latin": "黑体",
+        "eastasia": "黑体",
+        "size": 12,
+        "bold": true,
+        "color": "000000",
+        "alignment": 0,
+        "space_before": 6,
+        "space_after": 3,
+        "line_spacing": 1.0
+    },
+    "body": {
+        "latin": "Calibri",
+        "eastasia": "宋体",
+        "size": 12,
+        "bold": false,
+        "color": "000000",
+        "alignment": 0,
+        "space_before": 0,
+        "space_after": 3,
+        "line_spacing": 1.0
+    },
+    "list": {
+        "latin": "Calibri",
+        "eastasia": "宋体",
+        "size": 12,
+        "bold": false,
+        "color": "000000",
+        "alignment": 0,
+        "space_before": 0,
+        "space_after": 2,
+        "line_spacing": 1.0,
+        "bullet_size": "auto"
+    },
+    "code": {
+        "latin": "Consolas", 
+        "eastasia": "Consolas",
+        "size": 10.5, 
+        "bold": false, 
+        "color": "000000",
+        "background": "F5F5F5",
+        "inline_code": false
+    },
+    "blockquote": {
+        "latin": "Calibri", 
+        "eastasia": "宋体",
+        "size": 12, 
+        "bold": false, 
+        "italic": true,
+        "color": "666666", 
+        "background": "E8E8E8",
+        "border_color": "999999"
+    },
+    "table": {
+        "latin": "Calibri", 
+        "eastasia": "宋体",
+        "size": 12, 
+        "bold": false, 
+        "color": "000000"
+    }
+}
